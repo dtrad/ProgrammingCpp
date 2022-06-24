@@ -1,0 +1,453 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.82
+# Built for x86_64-redhat-linux-gnu
+# Copyright (C) 2010  Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Fri Jun 24 16:18:03 2022
+
+# Variables
+
+# environment
+SPARTA = gilgamesh:/disk/spartacus1/dtrad/madagascar/src-master
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+STRINGS = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-strings
+# environment
+DESKTOP_SESSION = gnome-classic
+# default
+.SHELLFLAGS := -c
+# environment
+QTDIR = /usr/lib64/qt-3.3
+# environment
+GPROF = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-gprof
+# environment
+XDG_SESSION_TYPE = x11
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+MODULEPATH = /usr/share/Modules/modulefiles:/etc/modulefiles
+# environment
+CONDA_BUILD_SYSROOT = /home/dtrad/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot
+# environment
+CPPFLAGS = -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/dtrad/anaconda3/include
+# environment
+X_SCLS = devtoolset-8 
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+XAUTHORITY = /run/gdm/auth-for-dtrad-MRAyhZ/database
+# environment
+GDMSESSION = gnome-classic
+ 
+make: *** No rule to make target `all'.  Stop.
+
+# environment
+XMODIFIERS = @im=ibus
+# makefile
+CURDIR := /home/dtrad/Programming/professional-cpp-5th-ed/c01_code/01_HelloWorld
+# makefile
+SHELL = /bin/sh
+# environment
+NM = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-nm
+# environment
+GDM_LANG = en_CA.utf8
+# environment
+VTE_VERSION = 5204
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+# environment
+CWPROOT = /home/dtrad/cwp
+# environment
+_ = /usr/bin/make
+# environment
+CFLAGS = -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dtrad/anaconda3/include
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+VSCODE_PID = 5926
+# environment
+LESSOPEN = ||/usr/bin/lesspipe.sh %s
+# makefile (from `Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+GCC = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-gcc
+# environment
+HISTCONTROL = ignoredups
+# environment
+GCC_NM = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-gcc-nm
+# environment
+CXXFLAGS = -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/dtrad/anaconda3/include
+# environment
+XDG_DATA_DIRS = /home/dtrad/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+ADDR2LINE = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-addr2line
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:abstract=/tmp/dbus-R2pSaqqww3,guid=bf09c515f455dde64b913f8b62b636cb
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# makefile (from `Makefile', line 6)
+CC = g++ -std=c++2a 
+# environment
+QT_PLUGIN_PATH = /usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+# environment
+INFOPATH = /opt/rh/devtoolset-8/root/usr/share/info
+# environment
+_CONDA_PYTHON_SYSCONFIGDATA_NAME = _sysconfigdata_x86_64_conda_cos6_linux_gnu
+# environment
+PCP_DIR = /opt/rh/devtoolset-8/root
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-e159d105-b85a-431d-91a1-3f6cf0a6c6d9.sock
+# environment
+CPP = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-cpp
+# environment
+VSCODE_CWD = /home/dtrad/Programming/professional-cpp-5th-ed/c01_code/01_HelloWorld
+# environment
+ELFEDIT = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-elfedit
+# environment
+PATH = /opt/rh/devtoolset-8/root/usr/bin:/usr/local/cuda/bin:.:/home/dtrad/madagascar/bin:/home/dtrad/anaconda3/bin:/home/dtrad/anaconda3/bin:/home/dtrad/anaconda3/condabin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/var/lib/snapd/snap/bin:/home/dtrad/.local/bin:/home/dtrad/bin:/usr/local/soft/netpbm/bin:/home/dtrad/cwp/bin:/home/dtrad/seismic/su:/home/dtrad/bin
+# environment
+LD = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-ld
+# environment
+QT_GRAPHICSSYSTEM_CHECKED = 1
+# environment
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/2650,unix/unix:/tmp/.ICE-unix/2650
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+LD_GOLD = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-ld.gold
+# environment
+GXX = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-g++
+# environment
+AR = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-ar
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+LDFLAGS = -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/dtrad/anaconda3/lib -Wl,-rpath-link,/home/dtrad/anaconda3/lib -L/home/dtrad/anaconda3/lib
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver check-symlink
+# environment
+CMAKE_PREFIX_PATH = /home/dtrad/anaconda3:/home/dtrad/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr
+# environment
+LS_COLORS = rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+# environment
+XDG_SESSION_DESKTOP = gnome-classic
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# environment
+SIZE = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-size
+# automatic
+%F = $(notdir $%)
+# environment
+KDEDIRS = /usr
+# environment
+DISPLAY = :0
+# environment
+CONDA_EXE = /home/dtrad/anaconda3/bin/conda
+# environment
+READELF = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-readelf
+# environment
+RSFSRC = /home/dtrad/madagascar/src-master
+# environment
+IMSETTINGS_INTEGRATE_DESKTOP = yes
+# environment
+RSFROOT = /home/dtrad/madagascar
+# environment
+PWD = /home/dtrad/Programming/professional-cpp-5th-ed/c01_code/01_HelloWorld
+# environment
+XDG_SEAT = seat0
+# environment
+SSH_AGENT_PID = 2806
+# environment
+RANLIB = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-ranlib
+# environment
+PKG_CONFIG_PATH = /opt/rh/devtoolset-8/root/usr/lib64/pkgconfig
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = GNOME-Classic:GNOME
+# environment
+USERNAME = dtrad
+# environment
+MANPATH = /opt/rh/devtoolset-8/root/usr/share/man:/home/dtrad/anaconda3/man:/usr/local/man:/usr/local/share/man:/usr/share/man/overrides:/usr/share/man:/home/dtrad/madagascar/share/man
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/dtrad
+# environment
+LD_LIBRARY_PATH = /opt/rh/devtoolset-8/root/usr/lib64:/opt/rh/devtoolset-8/root/usr/lib:/opt/rh/devtoolset-8/root/usr/lib64/dyninst:/opt/rh/devtoolset-8/root/usr/lib/dyninst:/opt/rh/devtoolset-8/root/usr/lib64:/opt/rh/devtoolset-8/root/usr/lib:/usr/local/cuda/lib64:/home/dtrad/madagascar/lib:/usr/local/lib
+# environment
+VSCODE_CLI = 1
+# environment
+PERL5LIB = /opt/rh/devtoolset-8/root//usr/lib64/perl5/vendor_perl:/opt/rh/devtoolset-8/root/usr/lib/perl5:/opt/rh/devtoolset-8/root//usr/share/perl5/vendor_perl
+# environment
+VSCODE_CODE_CACHE_PATH = /home/dtrad/.config/Code/CachedData/30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+LOGNAME = dtrad
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+CONDA_PROMPT_MODIFIER = (base) 
+# environment
+CXXFILT = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-c++filt
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+MADGLADOS = daniel.trad@glados.ucalgary.ca:/home/daniel.trad/madagascar/src-master
+# environment
+CONDA_BACKUP_HOST = x86_64-conda_cos6-linux-gnu
+# default
+MAKE_VERSION := 3.82
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+HOSTNAME = lula
+# environment
+XDG_VTNR = 1
+# environment
+MAKELEVEL := 0
+# environment
+CONDA_DEFAULT_ENV = base
+# environment
+COLORTERM = truecolor
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+QT_IM_MODULE = ibus
+# environment
+SHLVL = 4
+# environment
+AS = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-as
+# environment
+GCC_AR = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-gcc-ar
+# environment
+GNOME_SHELL_SESSION_MODE = classic
+# environment
+XDG_SESSION_ID = 1
+# environment
+USER = dtrad
+# environment
+QTLIB = /usr/lib64/qt-3.3/lib
+# environment
+DATAPATH = /data/tmp/
+# environment
+XDG_CURRENT_DESKTOP = GNOME-Classic:GNOME
+# makefile (from `Makefile', line 1)
+NAME = helloworld
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+define BASH_FUNC_module()
+() {  eval `/usr/bin/modulecmd bash $*`
+}
+endef
+# environment
+WINDOWPATH = 1
+# environment
+TEXMFHOME = /home/dtrad/segtex-0.9.3/texmf
+# environment
+CONDA_SHLVL = 1
+# default
+MAKE_COMMAND := make
+# default
+.VARIABLES := 
+# environment
+IMSETTINGS_MODULE = none
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-c7cf3351-1.68.1-main.sock
+# environment
+PYTHONPATH = /opt/rh/devtoolset-8/root/usr/lib64/python2.7/site-packages:/opt/rh/devtoolset-8/root/usr/lib/python2.7/site-packages:/home/dtrad/madagascar/lib/python3.7/site-packages:/home/dtrad/madagascar/src-master/book/Recipes:/home/dtrad/pythonexamples/MLprojects/lib
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MAIL = /var/spool/mail/dtrad
+# environment
+LOADEDMODULES = 
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+OBJDUMP = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-objdump
+# environment
+GDK_BACKEND = x11
+# environment
+MODULESHOME = /usr/share/Modules
+# automatic
++F = $(notdir $+)
+# environment
+NO_AT_BRIDGE = 1
+# environment
+STRIP = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-strip
+# environment
+VSCODE_PIPE_LOGGING = true
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+CXX = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-c++
+# environment
+LC_ALL = C
+# environment
+GLADOS = daniel.trad@glados.ucalgary.ca:/home/daniel.trad
+# environment
+CONDA_PYTHON_EXE = /home/dtrad/anaconda3/bin/python
+# environment
+DEBUG_CPPFLAGS = -D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem /home/dtrad/anaconda3/include
+# environment
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/b4d78fb1_f3b7_4dc5_85aa_37d172687759
+# automatic
+^F = $(notdir $^)
+# environment
+OBJCOPY = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-objcopy
+# environment
+GNOME_TERMINAL_SERVICE = :1.112
+# default
+SUFFIXES := 
+# environment
+HISTSIZE = 1000
+# environment
+_CE_M = 
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DEBUG_CFLAGS = -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/dtrad/anaconda3/include
+# default
+ 
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+QTINC = /usr/lib64/qt-3.3/include
+# default
+.RECIPEPREFIX := 
+# makefile (from `Makefile', line 3)
+OBJECTS = $(NAME).o 
+# makefile
+.DEFAULT_GOAL := helloworld
+# environment
+GCC_RANLIB = /home/dtrad/anaconda3/bin/x86_64-conda_cos6-linux-gnu-gcc-ranlib
+# environment
+JULIA_LOAD_PATH = /home/dtrad/madagascar/lib
+# environment
+CONDA_PREFIX = /home/dtrad/anaconda3
+# environment
+TERM = xterm-256color
+# environment
+DATASP = gilgamesh:/disk/spartacus1/dtrad/data/rsf
+# environment
+DEBUG_CXXFLAGS = -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /home/dtrad/anaconda3/include
+# environment
+_CE_CONDA = 
+# environment
+HOST = x86_64-conda_cos6-linux-gnu
+# environment
+LANG = C
+# environment
+CUDA_INC_PATH = /usr/include/cuda
+# variable set hash-table stats:
+# Load=173/1024=17%, Rehash=0, Collisions=31/201=15%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 64770, inode 8245033): 8 files, no impossibilities.
+
+# 8 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+%.o: %.cpp
+#  recipe to execute (from `Makefile', line 14):
+	$(CC) $(IDIR) $(D) $(CPPFLAGS) -c $<
+
+# 1 implicit rules, 0 (0.0%) terminal.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-24 16:17:44.294340569
+#  File has been updated.
+#  Successfully updated.
+
+helloworld: helloworld.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from `Makefile', line 11):
+	$(CC) $(OBJECTS) $(IDIR) $(D) $(LIBS) $(CWP_FLAGS) $(MAKEFLAGS) -o $@
+
+# Not a target:
+helloworld.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from `Makefile', line 17):
+	rm -rf $(NAME) *.o *~ out in *.d
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/18=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 0 / lookups = 24 / hits = 24
+# # of strcache buffers: 1 (* 8176 B/buffer = 8176 B)
+# strcache used: total = 0 (138) / max = 0 / min = 8176 / avg = 0
+# strcache free: total = 0 (8038) / max = 0 / min = 8176 / avg = 0
+
+# strcache hash-table stats:
+# Load=16/8192=0%, Rehash=0, Collisions=1/24=4%
+# Finished Make data base on Fri Jun 24 16:18:03 2022
+
+ 

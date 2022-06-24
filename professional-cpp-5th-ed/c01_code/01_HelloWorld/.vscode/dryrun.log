@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/home/dtrad/Programming/professional-cpp-5th-ed/c01_code/01_HelloWorld'
+make: `helloworld' is up to date.
+make: Leaving directory `/home/dtrad/Programming/professional-cpp-5th-ed/c01_code/01_HelloWorld'
+ 
